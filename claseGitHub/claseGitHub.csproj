@@ -83,5 +83,8 @@
   <ItemGroup>
     <None Include="Resources\messi.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lionel-messi-sacachispas-1214018.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -48,7 +48,7 @@ namespace claseGitHub
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::claseGitHub.Properties.Resources.messi;
+            this.pictureBox1.BackgroundImage = global::claseGitHub.Properties.Resources.lionel_messi_sacachispas_1214018;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Arrow;
@@ -68,7 +68,7 @@ namespace claseGitHub
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // FormLuca
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -76,7 +76,7 @@ namespace claseGitHub
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "FormLuca";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
