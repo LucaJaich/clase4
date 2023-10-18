@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace claseGitHub
 {
-    public partial class FormLuca : Form
+    public partial class FormKevin : Form
     {
-        public FormLuca()
+        public FormKevin()
         {
             InitializeComponent();
             pictureBox1.Visible = false;
