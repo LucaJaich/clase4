@@ -63,9 +63,39 @@ namespace claseGitHub.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _328287861_221400026916786_5276697385444830627_n {
+            get {
+                object obj = ResourceManager.GetObject("328287861_221400026916786_5276697385444830627_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hp1 {
+            get {
+                object obj = ResourceManager.GetObject("hp1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap messi {
             get {
                 object obj = ResourceManager.GetObject("messi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap shustin {
+            get {
+                object obj = ResourceManager.GetObject("shustin", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

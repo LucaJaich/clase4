@@ -83,5 +83,14 @@
   <ItemGroup>
     <None Include="Resources\messi.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\328287861_221400026916786_5276697385444830627_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hp1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shustin.jfif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
