@@ -84,7 +84,10 @@
     <None Include="Resources\messi.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\lionel-messi-sacachispas-1214018.jpg" />
+    <None Include="Resources\dos shinou.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DIDATNOVAS.jfif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
