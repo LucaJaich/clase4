@@ -32,5 +32,6 @@ namespace claseGitHub
         {
             pictureBox1.Visible = true;
         }
+        
     }
 }

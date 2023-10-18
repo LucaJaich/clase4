@@ -63,36 +63,6 @@ namespace claseGitHub.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap DIDATNOVAS {
-            get {
-                object obj = ResourceManager.GetObject("DIDATNOVAS", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap DIDATNOVAS1 {
-            get {
-                object obj = ResourceManager.GetObject("DIDATNOVAS1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap dos_shinou {
-            get {
-                object obj = ResourceManager.GetObject("dos shinou", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap messi {
             get {
                 object obj = ResourceManager.GetObject("messi", resourceCulture);
